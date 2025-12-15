@@ -68,6 +68,12 @@ Ex05/
 
 ---
 
+## screenshots
+<img width<img width="425" height="698" alt="Screenshot 2025-12-15 102451" src="https://github.com/user-attachments/assets/7bd23135-eaac-4d14-bd0a-f5e414d51c7a" />
+="407" height="208" alt="Screenshot 2025-12-15 102424" src="https://github.com/user-attachments/assets/c8f0fccc-f310-45ec-b702-dd91214afcfc" />
+<img width="417" height="689" alt="Screenshot 2025-12-15 102502" src="https://github.com/user-attachments/assets/5b54e781-06d9-4b0a-96f3-8aae732bae55" />
+
+
 ## Future improvements
 - Optional “duplicates allowed” mode and difficulty presets.
 - Keyboard navigation and accessibility tweaks.
