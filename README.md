@@ -69,9 +69,9 @@ Ex05/
 ---
 
 ## screenshots
-<img width<img width="425" height="698" alt="Screenshot 2025-12-15 102451" src="https://github.com/user-attachments/assets/7bd23135-eaac-4d14-bd0a-f5e414d51c7a" />
-="407" height="208" alt="Screenshot 2025-12-15 102424" src="https://github.com/user-attachments/assets/c8f0fccc-f310-45ec-b702-dd91214afcfc" />
-<img width="417" height="689" alt="Screenshot 2025-12-15 102502" src="https://github.com/user-attachments/assets/5b54e781-06d9-4b0a-96f3-8aae732bae55" />
+<img width="407" height="208" alt="Screenshot 2025-12-15 102424" src="https://github.com/user-attachments/assets/b8828c7c-f7ab-430b-8fbc-1e74ef08cf2e" />
+<img width="417" height="689" alt="Screenshot 2025-12-15 102502" src="https://github.com/user-attachments/assets/e96a44c7-0aa1-48a2-b197-068b222aa813" />
+<img width="426" height="685" alt="Screenshot 2025-12-15 102603" src="https://github.com/user-attachments/assets/cde330bf-fa5a-4202-be5e-fa33a6360cf5" />
 
 
 ## Future improvements
